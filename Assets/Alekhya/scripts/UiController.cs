@@ -42,7 +42,7 @@ public class UiController : MonoBehaviour
     }
 
 
-    public void BackToLobby()
+    public void BackToMainMenu()
     {
         SceneManager.LoadScene("PlayerMainMenu");
     }

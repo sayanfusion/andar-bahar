@@ -1064,7 +1064,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 156571799}
         m_TargetAssemblyTypeName: UiController, Assembly-CSharp
-        m_MethodName: BackToLobby
+        m_MethodName: BackToMainMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
